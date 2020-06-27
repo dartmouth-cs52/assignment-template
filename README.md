@@ -1,24 +1,11 @@
-# Project Name
+# Title
 
-![Team Photo](Insert a Team Photo URL here)
-[*how?*](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+*description*
 
-TODO: short project description, some sample screenshots or mockups
+[deployed url](http://url-if-deployed-here)
 
-## Architecture
+## What Worked Well
 
-TODO:  descriptions of code organization and tools and libraries used
+## What Didn't
 
-## Setup
-
-TODO: how to get the project dev environment up and running, npm install etc
-
-## Deployment
-
-TODO: how to deploy the project
-
-## Authors
-
-TODO: list of authors
-
-## Acknowledgments
+## Screenshots
